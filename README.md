@@ -54,7 +54,9 @@ Additional constraints:
 3. Max weight and cost of an item is ≤ 100
 
 
-# Running the solution
+# Solution
+
+Please check the [Package Challenge Design Document](https://github.com/chathuract100/PackageChallenge/blob/master/Package%20Challenge%20Design%20Document%20.pdf) for the design considerations
 
 Build the solution
 -
@@ -62,13 +64,21 @@ Navigate to the solution folder and open command line window and type the below 
 
 "dotnet build"
 
+![alt text](https://github.com/chathuract100/PackageChallenge/blob/master/images/build.png?raw=true)
+
 Running the solution through console app
 -
 On the solution folder command line window, type the following
 
 "dotnet run --project com.mobiquity"
 
+![alt text](https://github.com/chathuract100/PackageChallenge/blob/master/images/run%20.png?raw=true)
+
+![alt text](https://github.com/chathuract100/PackageChallenge/blob/master/images/run%20error.png?raw=true)
+
 Running the Unit Tests
 -
 
 "dotnet test"
+
+![alt text](https://github.com/chathuract100/PackageChallenge/blob/master/images/test.png?raw=true)
