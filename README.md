@@ -52,3 +52,23 @@ Additional constraints:
 1. Max weight that a package can take is ≤ 100
 2. There might be up to 15 items you need to choose from
 3. Max weight and cost of an item is ≤ 100
+
+
+# Running the solution
+
+Build the solution
+-
+Navigate to the solution folder and open command line window and type the below command
+
+"dotnet build"
+
+Running the solution through console app
+-
+On the solution folder command line window, type the following
+
+"dotnet run --project com.mobiquity"
+
+Running the Unit Tests
+-
+
+"dotnet test"
